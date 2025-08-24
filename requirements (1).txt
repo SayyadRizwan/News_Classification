@@ -1,0 +1,6 @@
+gradio
+scikit-learn
+nltk
+joblib
+matplotlib
+plotly
